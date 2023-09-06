@@ -1,4 +1,6 @@
-### Hi there 👋
+I am currently a senior at BYU studying Applied Statistics
+
+I am aspiring to be a sports statistician 
 
 <!--
 **mattng23/mattng23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
