@@ -1,4 +1,4 @@
-I am currently a senior at BYU studying Applied Statistics
+BYU Applied Statistics Graduate
 
 I am aspiring to be a sports statistician 
 
